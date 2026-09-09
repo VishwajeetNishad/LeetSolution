@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0048-rotate-image) |
+| [3871-count-commas-in-range-ii](https://github.com/VishwajeetNishad/LeetSolution/tree/master/3871-count-commas-in-range-ii) |
 ## Simulation
 |  |
 | ------- |
